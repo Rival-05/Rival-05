@@ -13,4 +13,4 @@
 ![](https://github-readme-cyber-quotes.vercel.app/api?type=vetical&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rajat Tripathi&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RajatTripathi&icon=0&color=0)](https://visitcount.itsvg.in)
